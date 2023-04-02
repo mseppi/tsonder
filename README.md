@@ -25,4 +25,4 @@ Sen jälkeen asenna sovelluksen riippuvuudet virtuaaliympäristöösi
 Käynnistä sovellus komennolla 
 - Flask run
 
-Sovellus on vielä erittäin keskeneräinen, joten siinä on vain sisäänkirjautumisnäkymä, joka ei toimi kunnolla. 
+Sovellus on vielä erittäin keskeneräinen, joten siinä on vain sisäänkirjautumisnäkymä, joka ei toimi kunnolla. Login ei toimi ollenkaan ja register epäonnistuu. 
