@@ -14,8 +14,8 @@ Sovelluksen ominaisuuksia:
 # KÄYNNISTYSOHJEET
 Kloonaa repositori koneellesi ja mene sen juurikansioon. Tee sinne .env tiedosto, jonne laitat seuraavat tiedot 
 
-- DATABASE_URL=<tietokannan-paikallinen-osoite>
-- SECRET_KEY=<salainen-avain>
+- DATABASE_URL=(tietokannan-paikallinen-osoite)
+- SECRET_KEY=(salainen-avain)
 
 Sen jälkeen asenna sovelluksen riippuvuudet virtuaaliympäristöösi
 - $ python3 -m venv venv
