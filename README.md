@@ -23,4 +23,5 @@ Sen jälkeen asenna sovelluksen riippuvuudet virtuaaliympäristöösi
 - $ pip install -r ./requirements.txt
 Käynnistä sovellus komennolla 
 - Flask run
+
 Sovellus on vielä erittäin keskeneräinen, joten siinä on vain sisäänkirjautumisnäkymä, joka ei toimi kunnolla.
