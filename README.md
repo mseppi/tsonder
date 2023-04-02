@@ -21,6 +21,7 @@ Sen jälkeen asenna sovelluksen riippuvuudet virtuaaliympäristöösi
 - $ python3 -m venv venv
 - $ source venv/bin/activate
 - $ pip install -r ./requirements.txt
+  
 Käynnistä sovellus komennolla 
 - Flask run
 
