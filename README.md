@@ -26,3 +26,5 @@ Käynnistä sovellus komennolla
 - Flask run
 
 Sovellus on vielä erittäin keskeneräinen, joten siinä on vain sisäänkirjautumisnäkymä, joka ei toimi kunnolla. Login ei toimi ollenkaan ja register epäonnistuu. 
+
+# Kurssi vaihdettu itsenäiseen versioon
